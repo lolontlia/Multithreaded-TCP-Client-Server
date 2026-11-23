@@ -1,6 +1,5 @@
 /*
  * Chloe McGrigg
- * Student ID: 11612794
  */
 
 #define _GNU_SOURCE
